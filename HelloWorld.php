@@ -1,4 +1,4 @@
 <?php
 echo "Hello World";
-Nambah baris dari git
+echo "Nambah baris dari git";
 ?>
