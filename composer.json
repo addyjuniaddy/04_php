@@ -1,0 +1,17 @@
+{
+    "name": "bkbnf/belajar-php-composer",
+    "description": "Belajar PHP Composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Bkbnf\\BelajarPhpComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "addyjuniaddy",
+            "email": "addy.juniaddy@gmail.com"
+        }
+    ],
+    "require": {}
+}
